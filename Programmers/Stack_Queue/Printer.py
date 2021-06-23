@@ -40,7 +40,7 @@ def solution(priorities, location):
                 location=-1
                 #프린트 순서 하나 더해줌
                 count+=1
-            
+            #dfgdfgdfgdfgdfgdfgdf
        
         
    
